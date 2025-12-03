@@ -1,0 +1,99 @@
+[
+  {
+    "id": "1",
+    "slug": "ultimate-guide-to-full-body-workouts",
+    "title": "The Ultimate Guide to Full-Body Workouts",
+    "date": "2025-11-20",
+    "image": "/images/hero-1.jpg",
+    "body": "<p>This is the first paragraph of the article. Explain the workout essentials...</p><p>More content here. Use HTML or safe markup.</p>",
+    "tourGuides": [
+      {
+        "name": "Alex Carter",
+        "role": "Personal Trainer",
+        "avatar": "/images/guide-1.jpg"
+      },
+      {
+        "name": "Maya Gomez",
+        "role": "Nutritionist",
+        "avatar": "/images/guide-2.jpg"
+      }
+    ],
+    "exploreMore": [
+      {
+        "title": "10 Quick Cardio Routines",
+        "slug": "10-quick-cardio-routines",
+        "image": "/images/related-1.jpg"
+      },
+      {
+        "title": "Strength Training Basics",
+        "slug": "strength-training-basics",
+        "image": "/images/related-2.jpg"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1",
+        "author": "Sara",
+        "text": "Great tips, helped me structure my workouts!",
+        "date": "2025-11-21"
+      },
+      {
+        "id": "c2",
+        "author": "Rohit",
+        "text": "Nice article. Could you add sample routines?",
+        "date": "2025-11-22"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "10-quick-cardio-routines",
+    "title": "10 Quick Cardio Routines",
+    "date": "2025-10-01",
+    "image": "/images/related-1.jpg",
+    "body": "<p>Cardio content goes here...</p>",
+    "tourGuides": [],
+    "exploreMore": [],
+    "comments": [
+      {
+        "id": "c3",
+        "author": "Amit",
+        "text": "Short and sweet!",
+        "date": "2025-10-02"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "slug": "strength-training-basics",
+    "title": "Strength Training Basics",
+    "date": "2025-09-15",
+    "image": "/images/related-2.jpg",
+    "body": "<p>Strength basics...</p>",
+    "tourGuides": [],
+    "exploreMore": [],
+    "comments": []
+  },
+  {
+    "id": "4",
+    "slug": "yoga-for-recovery",
+    "title": "Yoga for Recovery",
+    "date": "2025-08-20",
+    "image": "/images/related-3.jpg",
+    "body": "<p>Yoga content...</p>",
+    "tourGuides": [],
+    "exploreMore": [],
+    "comments": []
+  },
+  {
+    "id": "5",
+    "slug": "nutrition-for-athletes",
+    "title": "Nutrition for Athletes",
+    "date": "2025-07-10",
+    "image": "/images/related-4.jpg",
+    "body": "<p>Nutrition content...</p>",
+    "tourGuides": [],
+    "exploreMore": [],
+    "comments": []
+  }
+]
