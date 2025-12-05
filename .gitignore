@@ -146,3 +146,4 @@ Thumbs.db
 # Next.js specific
 .next
 out/
+.vercel
