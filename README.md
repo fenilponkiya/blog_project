@@ -1,4 +1,4 @@
-# Next.js Pages Router + Tailwind Blog (Starter)
+# Next.js Pages Router + Tailwind Blog 
 
 This is a starter project implementing your spec:
 
