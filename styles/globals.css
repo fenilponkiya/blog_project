@@ -1,13 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 /* small custom spacing or body reset */
-html, body, #__next {
+html,
+body,
+#__next {
   height: 100%;
 }
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #fafafa;
+  letter-spacing: 1px;
+  line-height: 24px;
 }
-.prose img { border-radius: 6px; }
+.prose img {
+  border-radius: 6px;
+}
+/* Global CSS file - styles.css or globals.css */
+.article-text-override p,
+.article-text-override span,
+.article-text-override div {
+  color: #4e5265 !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+}

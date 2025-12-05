@@ -3,45 +3,64 @@
     "id": "1",
     "slug": "ultimate-guide-to-full-body-workouts",
     "title": "The Ultimate Guide to Full-Body Workouts",
-    "date": "2025-11-20",
-    "image": "/images/hero-1.jpg",
-    "body": "<p>This is the first paragraph of the article. Explain the workout essentials...</p><p>More content here. Use HTML or safe markup.</p>",
+    "date": "23 November 2025",
+    "author": {
+      "name": "Sarah Johnson",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+      "bio": "Certified personal trainer with 10+ years experience. Specializes in functional fitness and body recomposition. Passionate about making strength training accessible to everyone."
+    },
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&h=400&fit=crop",
+    "body": "<p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Welcome to the ultimate guide to full-body workouts. Whether you're a beginner looking to start your fitness journey or an experienced athlete wanting to optimize your routine, this comprehensive guide will provide you with everything you need to know about full-body training.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Full-body workouts involve training all major muscle groups in a single session. This approach offers numerous benefits including improved muscle coordination, balanced development, and efficient use of your training time. Unlike split routines that focus on specific muscle groups each day, full-body workouts ensure you work your entire body regularly.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>One of the key advantages of full-body training is its versatility. You can perform these workouts with minimal equipment at home, in a gym setting with weights, or even using bodyweight exercises. This flexibility makes it an excellent choice for people with busy schedules or limited access to equipment.</p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:black; font-size:16px; margin:22px; font-weight:600;'><em>The most important principle to remember is progressive overload—gradually increasing the demands on your musculoskeletal system to continue making gains.</em></p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>When designing your full-body workout, focus on compound exercises that engage multiple muscle groups simultaneously. Squats, deadlifts, bench presses, rows, and overhead presses should form the foundation of your routine. These movements not only build strength efficiently but also improve functional fitness for daily activities.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Proper form is crucial to prevent injuries and maximize results. Take time to learn correct technique for each exercise, starting with lighter weights or bodyweight variations. Consider working with a certified trainer initially to ensure you're performing movements correctly and safely.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Frequency is another important consideration. Most people benefit from training 3-4 times per week with at least one rest day between sessions. This schedule allows for adequate recovery while maintaining consistency in your training.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Nutrition plays a vital role in supporting your full-body workouts. Ensure you're consuming enough protein to support muscle repair and growth, along with complex carbohydrates for energy. Hydration is equally important, especially around your workout sessions.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Finally, remember that consistency is more important than perfection. Don't get discouraged if you miss a workout or if progress seems slow. The key is to maintain regular training over weeks, months, and years. Track your progress, celebrate small victories, and adjust your program as needed to keep challenging yourself.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>With dedication and proper planning, full-body workouts can help you achieve remarkable transformations in strength, physique, and overall health. Start where you are, use what you have, and do what you can—your fitness journey begins with that first step.</p>",
     "tourGuides": [
       {
         "name": "Alex Carter",
         "role": "Personal Trainer",
-        "avatar": "/images/guide-1.jpg"
+        "avatar": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=200&fit=crop",
+        "userCity": "Los Angeles",
+        "userCountry": "USA",
+        "rating": 4.8
       },
       {
         "name": "Maya Gomez",
         "role": "Nutritionist",
-        "avatar": "/images/guide-2.jpg"
+        "avatar": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=300&h=200&fit=crop",
+        "userCity": "Miami",
+        "userCountry": "USA",
+        "rating": 4.9
       }
     ],
     "exploreMore": [
       {
-        "title": "10 Quick Cardio Routines",
+        "title": "Quick HIIT routines for morning energy boost",
         "slug": "10-quick-cardio-routines",
-        "image": "/images/related-1.jpg"
+        "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "tag": "Travel",
+        "date": "13 Jun 2022"
       },
       {
-        "title": "Strength Training Basics",
+        "title": "Building strength with proper form and technique",
         "slug": "strength-training-basics",
-        "image": "/images/related-2.jpg"
+        "image": "https://plus.unsplash.com/premium_photo-1667762241847-37471e8c8bc0?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "tag": "Health",
+        "date": "15 May 2022"
       }
     ],
     "comments": [
       {
         "id": "c1",
         "author": "Sara",
-        "text": "Great tips, helped me structure my workouts!",
-        "date": "2025-11-21"
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=50&h=50&fit=crop",
+        "text": "Great tips, helped me structure my workouts!  ",
+        "date": "13 Jun 2022",
+        "rating": 4.5
       },
       {
         "id": "c2",
         "author": "Rohit",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=50&h=50&fit=crop",
         "text": "Nice article. Could you add sample routines?",
-        "date": "2025-11-22"
+        "date": "14 Jun 2022",
+        "rating": 4.0
       }
     ]
   },
@@ -49,17 +68,64 @@
     "id": "2",
     "slug": "10-quick-cardio-routines",
     "title": "10 Quick Cardio Routines",
-    "date": "2025-10-01",
-    "image": "/images/related-1.jpg",
-    "body": "<p>Cardio content goes here...</p>",
-    "tourGuides": [],
-    "exploreMore": [],
+    "date": "23 October 2025",
+    "image": "https://images.unsplash.com/flagged/photo-1556746834-1cb5b8fabd54?fm=jpg&amp;q=60&amp;w=3000&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "body": "<p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>In today's fast-paced world, finding time for exercise can be challenging. That's where quick cardio routines come in—they deliver maximum benefits in minimal time, making fitness accessible even on your busiest days.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>High-Intensity Interval Training (HIIT) forms the backbone of most efficient cardio workouts. By alternating between short bursts of intense exercise and brief recovery periods, HIIT workouts can burn more calories in less time compared to steady-state cardio.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Before diving into the routines, it's essential to warm up properly. Spend 5-10 minutes doing dynamic stretches and light cardio to prepare your muscles and cardiovascular system for the work ahead. This simple step can prevent injuries and improve performance.</p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:black; font-size:16px; margin:22px; font-weight:600;'><em>Consistency with short workouts is far more effective than occasional marathon sessions. Even 15-20 minutes daily can produce remarkable results over time.</em></p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>The first routine involves simple bodyweight exercises: 30 seconds of jumping jacks, 30 seconds of high knees, 30 seconds of mountain climbers, and 30 seconds of rest. Repeat this circuit 4-5 times for a quick 15-minute workout that gets your heart pumping.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>For those with access to a jump rope, try interval skipping: jump for 45 seconds, rest for 15 seconds, and repeat for 10-15 minutes. This classic exercise improves coordination, cardiovascular health, and endurance without requiring much space or equipment.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Stair workouts offer another excellent option. Find a flight of stairs and alternate between running up quickly and walking down for recovery. Start with 10 repetitions and gradually increase as your fitness improves. This routine builds leg strength while providing cardio benefits.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Tabata protocol represents one of the most time-efficient methods. Choose an exercise like burpees, squat jumps, or sprints, and perform it at maximum intensity for 20 seconds followed by 10 seconds of rest. Repeat for 8 rounds total—just 4 minutes of work that yields substantial benefits.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Remember to cool down after each session with 5 minutes of light activity and static stretching. This helps reduce muscle soreness, improve flexibility, and bring your heart rate back to normal gradually.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Variety is key to preventing boredom and plateaus. Rotate through different routines each week to challenge your body in new ways and keep your workouts interesting. Track your progress and celebrate improvements in your endurance and speed over time.</p>",
+    "author": {
+      "name": "Mike Chen",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+      "bio": "HIIT specialist and marathon runner. Created award-winning fitness programs for busy professionals. Believes that consistency beats intensity every time."
+    },
+    "tourGuides": [
+      {
+        "name": "Priya Kapoor",
+        "role": "Cardio Coach",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&h=200&fit=crop",
+        "userCity": "Mumbai",
+        "userCountry": "India",
+        "rating": 4.7
+      },
+      {
+        "name": "Jordan Lee",
+        "role": "Fitness Instructor",
+        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=300&h=200&fit=crop",
+        "userCity": "Seoul",
+        "userCountry": "South Korea",
+        "rating": 4.6
+      }
+    ],
+    "exploreMore": [
+      {
+        "title": "Comprehensive guide to full-body training exercises",
+        "slug": "ultimate-guide-to-full-body-workouts",
+        "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=799&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "tag": "Health",
+        "date": "20 Apr 2022"
+      },
+      {
+        "title": "Essential strength building techniques for beginners",
+        "slug": "strength-training-basics",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "tag": "Travel",
+        "date": "18 Mar 2022"
+      }
+    ],
     "comments": [
       {
         "id": "c3",
         "author": "Amit",
-        "text": "Short and sweet!",
-        "date": "2025-10-02"
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=50&h=50&fit=crop",
+        "text": "Short and sweet! Perfect for my busy schedule.",
+        "date": "22 Jul 2022",
+        "rating": 4.8
+      },
+      {
+        "id": "c4",
+        "author": "Leena",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=50&h=50&fit=crop",
+        "text": "Loved the quick intervals—perfect between meetings.",
+        "date": "25 Jul 2022",
+        "rating": 4.9
       }
     ]
   },
@@ -67,33 +133,645 @@
     "id": "3",
     "slug": "strength-training-basics",
     "title": "Strength Training Basics",
-    "date": "2025-09-15",
-    "image": "/images/related-2.jpg",
-    "body": "<p>Strength basics...</p>",
-    "tourGuides": [],
-    "exploreMore": [],
-    "comments": []
+    "date": "23 September 2025",
+    "image": "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "body": "<p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Strength training is fundamental to overall fitness, offering benefits that extend far beyond muscle building. From improved bone density to enhanced metabolic function, incorporating resistance training into your routine can transform your health and well-being.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Understanding the basic principles of strength training is essential for effective and safe workouts. These principles include progressive overload, specificity, and recovery—three concepts that form the foundation of any successful strength program.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>For beginners, starting with bodyweight exercises provides an excellent foundation. Push-ups, squats, lunges, and planks help develop fundamental movement patterns while building basic strength without the need for equipment.</p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:black; font-size:16px; margin:22px; font-weight:600;'><em>Quality always trumps quantity in strength training. Performing exercises with proper form using lighter weights yields better results than lifting heavy with poor technique.</em></p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>When progressing to weights, focus on mastering the major compound movements: squats, deadlifts, bench presses, rows, and overhead presses. These exercises work multiple muscle groups simultaneously, making your workouts more efficient and effective.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Learning proper breathing technique is crucial for strength training. Generally, you should exhale during the exertion phase (when you're pushing or pulling against resistance) and inhale during the easier phase. This breathing pattern helps stabilize your core and maintain blood pressure.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Rest and recovery are as important as the workouts themselves. Muscles grow and repair during rest periods, not during exercise. Aim for at least 48 hours between training the same muscle groups to allow for adequate recovery.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Nutrition plays a critical role in supporting strength gains. Adequate protein intake (approximately 0.7-1 gram per pound of body weight) provides the building blocks for muscle repair and growth. Carbohydrates fuel your workouts, while healthy fats support hormone production.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Tracking your progress is essential for motivation and continued improvement. Keep a training log noting exercises, weights, sets, and reps. This record helps you apply progressive overload systematically by showing when to increase weights or reps.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Finally, be patient with your progress. Strength gains come gradually over weeks and months, not days. Celebrate small victories, stay consistent with your training, and remember that the journey to strength is a marathon, not a sprint.</p>",
+    "author": {
+      "name": "Emma Wilson",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop",
+      "bio": "Powerlifting coach and strength conditioning specialist. Holds multiple powerlifting records. Focuses on sustainable strength building through proper technique."
+    },
+    "tourGuides": [
+      {
+        "name": "Omar Rahman",
+        "role": "Strength Coach",
+        "avatar": "https://plus.unsplash.com/premium_photo-1671656349322-41de944d259b?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "userCity": "Dubai",
+        "userCountry": "UAE",
+        "rating": 4.9
+      }
+    ],
+    "exploreMore": [
+      {
+        "title": "Nutrition strategies for optimal athletic performance",
+        "slug": "nutrition-for-athletes",
+        "image": "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "tag": "Health",
+        "date": "10 Aug 2022"
+      },
+      {
+        "title": "Complete guide to full-body workout routines",
+        "slug": "ultimate-guide-to-full-body-workouts",
+        "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2021&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "tag": "Travel",
+        "date": "05 Sep 2022"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c5",
+        "author": "Nikhil",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=50&h=50&fit=crop",
+        "text": "Can you add modifications for beginners? Very helpful guide!",
+        "date": "30 Sep 2022",
+        "rating": 4.2
+      }
+    ]
   },
   {
     "id": "4",
     "slug": "yoga-for-recovery",
     "title": "Yoga for Recovery",
-    "date": "2025-08-20",
-    "image": "/images/related-3.jpg",
-    "body": "<p>Yoga content...</p>",
-    "tourGuides": [],
-    "exploreMore": [],
-    "comments": []
+    "date": "23 August 2025",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "body": "<p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>In our pursuit of fitness and strength, we often overlook the importance of recovery. Yoga offers a powerful tool for enhancing recovery, improving flexibility, and reducing the risk of injury from intense workouts.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Yoga's benefits for athletes and fitness enthusiasts extend far beyond simple stretching. The practice combines physical postures, breath control, and mindfulness to create a comprehensive recovery system that addresses both body and mind.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Post-workout yoga sequences can significantly reduce muscle soreness and stiffness. Gentle poses held for 30-60 seconds help lengthen muscles that have been shortened during exercise, promoting better blood flow and nutrient delivery to fatigued tissues.</p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:black; font-size:16px; margin:22px; font-weight:600;'><em>Recovery is where the magic happens—your body adapts and grows stronger during rest, not during exercise. Yoga accelerates this process.</em></p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Certain yoga poses are particularly beneficial for specific muscle groups. For example, downward-facing dog stretches the hamstrings, calves, and shoulders, while pigeon pose targets the hip flexors and glutes—areas that often become tight from sitting or intense leg workouts.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Breathing techniques (pranayama) in yoga can enhance recovery by activating the parasympathetic nervous system—the body's rest-and-digest mode. Deep, diaphragmatic breathing lowers cortisol levels, reduces inflammation, and promotes relaxation.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Yin yoga, which involves holding passive poses for several minutes, is especially effective for recovery. This style targets connective tissues like fascia, ligaments, and tendons, improving joint mobility and releasing deep tension.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Incorporating yoga into your routine doesn't require hours of practice. Even 10-15 minutes of targeted stretching after workouts or on rest days can yield significant benefits. Focus on areas that feel particularly tight or that you've worked intensely.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Props like blocks, straps, and bolsters can make yoga more accessible and comfortable. Don't hesitate to use support—the goal is to find gentle stretch, not strain or pain. Listen to your body and respect its current limitations.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Consistency with recovery practices like yoga ultimately enhances your performance in other activities. By maintaining flexibility, reducing injury risk, and managing stress, you create a foundation for sustainable fitness progress over the long term.</p>",
+    "author": {
+      "name": "David Martinez",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop",
+      "bio": "500-hour certified yoga instructor and former athlete. Specializes in restorative yoga for athletic recovery. Combines Western sports science with Eastern mindfulness practices."
+    },
+    "tourGuides": [
+      {
+        "name": "Anika Bose",
+        "role": "Yoga Instructor",
+        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=300&h=200&fit=crop",
+        "userCity": "Kolkata",
+        "userCountry": "India",
+        "rating": 4.8
+      },
+      {
+        "name": "Liam O'Connor",
+        "role": "Physiotherapist",
+        "avatar": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=300&h=200&fit=crop",
+        "userCity": "Dublin",
+        "userCountry": "Ireland",
+        "rating": 4.7
+      }
+    ],
+    "exploreMore": [
+      {
+        "title": "Full-body workout guide for comprehensive training",
+        "slug": "ultimate-guide-to-full-body-workouts",
+        "image": "https://images.unsplash.com/photo-1445384763658-0400939829cd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "tag": "Health",
+        "date": "22 Nov 2022"
+      },
+      {
+        "title": "Nutritional guidance for peak athletic performance",
+        "slug": "nutrition-for-athletes",
+        "image": "https://images.unsplash.com/photo-1530789253388-582c481c54b0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "tag": "Travel",
+        "date": "18 Oct 2022"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c6",
+        "author": "Priyanka",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=50&h=50&fit=crop",
+        "text": "Helped my sore muscles after leg day. Thank you!",
+        "date": "05 Dec 2022",
+        "rating": 4.9
+      }
+    ]
   },
   {
     "id": "5",
     "slug": "nutrition-for-athletes",
     "title": "Nutrition for Athletes",
-    "date": "2025-07-10",
-    "image": "/images/related-4.jpg",
-    "body": "<p>Nutrition content...</p>",
-    "tourGuides": [],
-    "exploreMore": [],
-    "comments": []
+    "date": "23 July 2025",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&h=400&fit=crop",
+    "body": "<p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Nutrition is the cornerstone of athletic performance and recovery. What you eat directly impacts your energy levels, muscle repair, immune function, and overall ability to train effectively and consistently.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Macronutrients—proteins, carbohydrates, and fats—each play distinct roles in supporting athletic endeavors. Understanding how to balance these nutrients according to your training demands is key to optimizing performance and results.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Protein is essential for muscle repair and growth. Active individuals typically need 0.6-0.9 grams of protein per pound of body weight daily. Distribute this intake evenly across meals to maximize muscle protein synthesis throughout the day.</p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:black; font-size:16px; margin:22px; font-weight:600;'><em>You can't out-train a poor diet. Nutrition provides the building blocks for recovery and adaptation, making it as important as your training regimen itself.</em></p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Carbohydrates serve as the primary fuel for high-intensity exercise. The timing and type of carbohydrates matter: complex carbs (whole grains, vegetables) for sustained energy, and simple carbs (fruits, sports drinks) around workouts for quick fuel and recovery.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Fats often get misunderstood in athletic nutrition. Healthy fats support hormone production, joint health, and absorption of fat-soluble vitamins. Include sources like avocados, nuts, seeds, and olive oil in your daily diet.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Hydration deserves special attention in athletic nutrition. Even mild dehydration (2% body weight loss) can significantly impair performance. Monitor urine color (aim for pale yellow) and drink consistently throughout the day, not just during workouts.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Timing your nutrition can enhance both performance and recovery. Pre-workout meals (1-3 hours before exercise) should emphasize carbohydrates with moderate protein. Post-workout nutrition (within 30-60 minutes) should include protein and carbs to replenish glycogen and repair muscle.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Micronutrients—vitamins and minerals—play crucial roles in energy production, oxygen transport, and antioxidant defense. A varied diet rich in colorful fruits and vegetables typically provides adequate micronutrients for most athletes.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Finally, remember that nutrition is highly individual. What works for one athlete may not work for another. Experiment with different approaches, track how you feel and perform, and adjust based on your unique needs and responses.</p>",
+    "author": {
+      "name": "Jessica Nguyen",
+      "avatar": "https://plus.unsplash.com/premium_photo-1688350808212-4e6908a03925?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dXNlciUyMHByb2ZpbGV8ZW58MHx8MHx8fDA%3D",
+      "bio": "Registered dietitian specializing in sports nutrition. Works with Olympic and professional athletes. Focuses on evidence-based nutrition strategies for optimal performance."
+    },
+    "tourGuides": [
+      {
+        "name": "Carlos Ruiz",
+        "role": "Sports Nutritionist",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&h=200&fit=crop",
+        "userCity": "Madrid",
+        "userCountry": "Spain",
+        "rating": 4.9
+      }
+    ],
+    "exploreMore": [
+      {
+        "title": "Basic strength training techniques for all levels",
+        "slug": "strength-training-basics",
+        "image": "https://images.unsplash.com/photo-1486218119243-13883505764c?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "tag": "Health",
+        "date": "03 Jan 2023"
+      },
+      {
+        "title": "Yoga practices for post-workout muscle recovery",
+        "slug": "yoga-for-recovery",
+        "image": "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "tag": "Travel",
+        "date": "28 Feb 2023"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c7",
+        "author": "Sam",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=50&h=50&fit=crop",
+        "text": "Great breakdown of macros for endurance sports. Very detailed!",
+        "date": "15 Mar 2023",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "slug": "mobility-training-essentials",
+    "title": "Mobility Training Essentials",
+    "date": "23 June 2025",
+    "image": "https://images.unsplash.com/photo-1549068106-b024baf5062d?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+    "body": "<p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Mobility training is often confused with flexibility work, but it goes far beyond simple stretching. While flexibility focuses on passive range of motion, mobility training emphasizes controlled, active movement through that range, improving joint function and overall movement quality.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Good mobility allows you to squat deeper, press overhead safely, and move with more efficiency in daily life. It reduces compensations, offloads stressed joints, and builds a resilient body capable of handling both training and real-world demands.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Effective mobility work combines dynamic stretching, end-range holds, and controlled articular rotations. Adding just 10–15 minutes of structured mobility before or after workouts can dramatically improve your lifting technique and reduce nagging aches.</p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:black; font-size:16px; margin:22px; font-weight:600;'><em>Think of mobility as lubrication for your joints—without it, even a powerful engine eventually grinds to a halt.</em></p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>When designing a mobility routine, prioritize problem areas first: hips, ankles, thoracic spine, and shoulders. These joints heavily influence your squat, hinge, and pressing positions, making them high-return investments for any training program.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>You can integrate mobility into warm-ups, between sets as active rest, or on separate low-intensity recovery days. The key is consistency—small daily deposits create long-term improvements in movement quality.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Over time, you will notice smoother movement, fewer restrictions, and a decreased need for long pre-workout stretching sessions. Mobility makes training feel better, look better, and perform better.</p>",
+    "author": {
+      "name": "Liam Parker",
+      "avatar": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?w=100&h=100&fit=crop",
+      "bio": "Strength and mobility coach helping lifters move pain-free. Blends functional range conditioning with traditional strength training to unlock performance."
+    },
+    "tourGuides": [
+      {
+        "name": "Sofia Ramos",
+        "role": "Physio & Mobility Specialist",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&h=200&fit=crop",
+        "userCity": "Lisbon",
+        "userCountry": "Portugal",
+        "rating": 4.8
+      }
+    ],
+    "exploreMore": [
+      {
+        "title": "Strength Training Basics for All Levels",
+        "slug": "strength-training-basics",
+        "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "05 May 2023"
+      },
+      {
+        "title": "Yoga Practices for Post-Workout Recovery",
+        "slug": "yoga-for-recovery",
+        "image": "https://images.unsplash.com/photo-1514996937319-344454492b37?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "19 May 2023"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c8",
+        "author": "Meera",
+        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=50&h=50&fit=crop",
+        "text": "Mobility finally makes sense to me after this article.",
+        "date": "02 Jun 2023",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "slug": "mindfulness-for-athletes",
+    "title": "Mindfulness for Athletes",
+    "date": "23 May 2025",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+    "body": "<p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Mental fitness is just as important as physical conditioning for athletes. Mindfulness practices help you stay composed under pressure, bounce back from mistakes, and perform at your true potential when it matters most.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Simple techniques like breath awareness, body scans, and visualization train your mind to focus on the present moment instead of past errors or future worries. This calm, centered focus directly translates to better decision-making in competition and training.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>You don’t need hour-long meditation sessions to benefit. Even 5–10 minutes per day of consistent practice can improve stress resilience, sleep quality, and emotional control.</p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:black; font-size:16px; margin:22px; font-weight:600;'><em>A quiet mind doesn’t mean fewer thoughts—it means you no longer get dragged around by every single one.</em></p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Pre-competition routines that include mindful breathing can reduce pre-game jitters and lower resting heart rate. Post-training reflection helps you learn from each session without harsh self-criticism.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Over time, mindfulness creates a powerful competitive advantage: the ability to stay composed, adaptable, and fully engaged, no matter what happens around you.</p>",
+    "author": {
+      "name": "Daniel Harris",
+      "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=100&h=100&fit=crop",
+      "bio": "Mental performance coach working with elite and amateur athletes. Specializes in mindfulness, focus, and emotional regulation tools for sport."
+    },
+    "tourGuides": [
+      {
+        "name": "Riya Sharma",
+        "role": "Sports Psychologist",
+        "avatar": "https://images.unsplash.com/photo-1525134479668-1bee5c7c6845?w=300&h=200&fit=crop",
+        "userCity": "New Delhi",
+        "userCountry": "India",
+        "rating": 4.9
+      }
+    ],
+    "exploreMore": [
+      {
+        "title": "Yoga for Recovery and Relaxation",
+        "slug": "yoga-for-recovery",
+        "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "30 Apr 2023"
+      },
+      {
+        "title": "Quick Cardio Sessions to Clear Your Mind",
+        "slug": "10-quick-cardio-routines",
+        "image": "https://images.unsplash.com/photo-1517832207067-4db24a2ae47c?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "15 Mar 2023"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c9",
+        "author": "Alex",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=50&h=50&fit=crop",
+        "text": "Loved the breathing routine example—using it before my games now.",
+        "date": "10 Apr 2023",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "slug": "home-workouts-no-equipment",
+    "title": "Home Workouts with No Equipment",
+    "date": "23 April 2025",
+    "image": "https://plus.unsplash.com/premium_photo-1663088822729-c88c53900228?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "body": "<p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>You don’t need a gym membership or expensive equipment to get stronger, leaner, and healthier. Bodyweight-only home workouts can deliver impressive results when structured with intention and progression.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Push-ups, squats, lunges, glute bridges, and planks can be modified for any fitness level. Changing tempo, range of motion, and rest periods allows you to make simple movements surprisingly challenging.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Home training removes many barriers: no commute, no waiting for machines, and no time wasted. This convenience makes consistency easier—the true driver of long-term progress.</p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:black; font-size:16px; margin:22px; font-weight:600;'><em>Your body is the most versatile piece of equipment you own—learn to use it well and the gym becomes optional, not mandatory.</em></p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Design your home workouts around full-body circuits: 4–6 exercises performed back-to-back with short rests. This structure boosts your heart rate, builds muscle endurance, and maximizes calorie burn in minimal time.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>As you get stronger, progress by adding reps, reducing rest, or increasing total rounds. Track your sessions so improvements are clear and motivating.</p>",
+    "author": {
+      "name": "Olivia Green",
+      "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=100&h=100&fit=crop",
+      "bio": "Online fitness coach specializing in minimal-equipment training. Helps busy professionals build muscle and lose fat from home."
+    },
+    "tourGuides": [
+      {
+        "name": "Mark Liu",
+        "role": "Calisthenics Coach",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&h=200&fit=crop",
+        "userCity": "Singapore",
+        "userCountry": "Singapore",
+        "rating": 4.7
+      }
+    ],
+    "exploreMore": [
+      {
+        "title": "Ultimate Guide to Full-Body Workouts",
+        "slug": "ultimate-guide-to-full-body-workouts",
+        "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "12 Feb 2023"
+      },
+      {
+        "title": "10 Quick Cardio Routines You Can Do Anywhere",
+        "slug": "10-quick-cardio-routines",
+        "image": "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "20 Feb 2023"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c10",
+        "author": "Rashmi",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=50&h=50&fit=crop",
+        "text": "Perfect for my tiny apartment. The circuits are killer!",
+        "date": "03 Mar 2023",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "slug": "beginner-running-plan",
+    "title": "Beginner Running Plan",
+    "date": "23 March 2025",
+    "image": "https://plus.unsplash.com/premium_photo-1674605365723-15e6749630f4?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "body": "<p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Starting a running routine can feel intimidating, especially if you haven’t jogged since school days. The good news: with a gradual, structured plan, almost anyone can build up to comfortable, enjoyable runs.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>The key is patience. Alternating intervals of walking and jogging lets your joints, heart, and lungs adapt safely. A common starting point is 1 minute of easy jogging followed by 2 minutes of walking, repeated for 20–25 minutes.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Running improves cardiovascular health, mood, and stress levels, but only when progress is steady—not rushed.</p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:black; font-size:16px; margin:22px; font-weight:600;'><em>Run at a pace where you can still hold a conversation—this is where sustainable progress happens.</em></p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Aim for 3 sessions per week with at least one rest day in between. Gradually increase your jog intervals and reduce walking over 6–8 weeks until you can run continuously for 20–30 minutes.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Invest in good shoes, warm up with light movement, and finish each run with gentle stretching for your calves, hamstrings, and hips.</p>",
+    "author": {
+      "name": "Noah Bennett",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&h=100&fit=crop",
+      "bio": "Running coach and former middle-distance athlete. Specializes in helping beginners complete their first 5K safely and confidently."
+    },
+    "tourGuides": [
+      {
+        "name": "Elena Popov",
+        "role": "Endurance Coach",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&h=200&fit=crop",
+        "userCity": "Prague",
+        "userCountry": "Czech Republic",
+        "rating": 4.6
+      }
+    ],
+    "exploreMore": [
+      {
+        "title": "10 Quick Cardio Routines for Busy Days",
+        "slug": "10-quick-cardio-routines",
+        "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "08 Jan 2023"
+      },
+      {
+        "title": "Yoga for Recovery After Long Runs",
+        "slug": "yoga-for-recovery",
+        "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "17 Jan 2023"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c11",
+        "author": "Jatin",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=50&h=50&fit=crop",
+        "text": "Went from couch to 20-minute runs with this plan. Amazing.",
+        "date": "05 Feb 2023",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "slug": "advanced-hiit-protocols",
+    "title": "Advanced HIIT Protocols",
+    "date": "23 February 2025",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+    "body": "<p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Once you have a solid cardio foundation, advanced High-Intensity Interval Training (HIIT) protocols can push your conditioning and calorie burn to the next level. These sessions are short but extremely demanding, so they should complement—not replace—your base training.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Protocols like Tabata, 30/30 intervals, and pyramid sprints challenge both aerobic and anaerobic systems. They improve your ability to sustain high effort and recover faster between bursts of intensity.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Because HIIT is stressful, proper warm-up and limited weekly frequency are essential to avoid burnout.</p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:black; font-size:16px; margin:22px; font-weight:600;'><em>HIIT is a powerful tool, not a daily requirement—use it sparingly for maximum impact and minimal fatigue.</em></p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Limit intense HIIT to 2–3 sessions per week, leaving at least 48 hours between hard intervals. Combine them with easier steady-state cardio and resistance training for a balanced program.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Monitor recovery using sleep quality, resting heart rate, and perceived fatigue. Adjust volume when life stress or soreness increases.</p>",
+    "author": {
+      "name": "James Carter",
+      "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=100&h=100&fit=crop",
+      "bio": "Performance coach specializing in conditioning for field and court athletes. Designs evidence-based HIIT protocols that improve speed and endurance."
+    },
+    "tourGuides": [
+      {
+        "name": "Hina Mori",
+        "role": "Conditioning Specialist",
+        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=300&h=200&fit=crop",
+        "userCity": "Tokyo",
+        "userCountry": "Japan",
+        "rating": 4.7
+      }
+    ],
+    "exploreMore": [
+      {
+        "title": "10 Quick Cardio Routines for HIIT Lovers",
+        "slug": "10-quick-cardio-routines",
+        "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "02 Dec 2022"
+      },
+      {
+        "title": "Nutrition Strategies for High-Intensity Training",
+        "slug": "nutrition-for-athletes",
+        "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "10 Dec 2022"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c12",
+        "author": "Victor",
+        "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=50&h=50&fit=crop",
+        "text": "The pyramid sprint protocol destroyed me in a good way.",
+        "date": "20 Jan 2023",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "slug": "sleep-and-recovery-for-lifters",
+    "title": "Sleep & Recovery for Lifters",
+    "date": "23 January 2025",
+    "image": "https://plus.unsplash.com/premium_photo-1661397087554-2774b7e7332f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "body": "<p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>You can follow the best training program and nutrition plan in the world, but without adequate sleep, your progress will always be capped. Sleep is when your body repairs tissues, consolidates motor learning, and restores hormonal balance.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Lifters who consistently sleep less than 7 hours per night experience reduced strength gains, higher injury risk, and greater perceived effort during workouts. On the other hand, improving sleep quantity and quality can unlock new levels of performance without changing your training at all.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Simple habits like a consistent bedtime, reduced late-night screen time, and a cool, dark room make a big difference.</p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:black; font-size:16px; margin:22px; font-weight:600;'><em>Progress doesn’t happen when you’re lifting—it happens when you’re sleeping and recovering from those lifts.</em></p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Aim for 7–9 hours of sleep per night and prioritize a short wind-down routine: dim lights, light stretching, or reading. Avoid heavy meals and intense work close to bedtime.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Track your sleep for a few weeks and notice how better-rested days align with stronger, more focused training sessions.</p>",
+    "author": {
+      "name": "Hannah Lee",
+      "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=100&h=100&fit=crop",
+      "bio": "Strength coach and sleep educator helping lifters optimize recovery. Combines science-backed sleep strategies with practical lifestyle changes."
+    },
+    "tourGuides": [
+      {
+        "name": "Dr. Aaron Patel",
+        "role": "Sleep Specialist",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&h=200&fit=crop",
+        "userCity": "Toronto",
+        "userCountry": "Canada",
+        "rating": 4.9
+      }
+    ],
+    "exploreMore": [
+      {
+        "title": "Yoga for Recovery and Deep Relaxation",
+        "slug": "yoga-for-recovery",
+        "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "27 Nov 2022"
+      },
+      {
+        "title": "Nutrition for Athletes: Fueling Recovery",
+        "slug": "nutrition-for-athletes",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "03 Dec 2022"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c13",
+        "author": "Suresh",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=50&h=50&fit=crop",
+        "text": "Realized my plateau was just from poor sleep. This helped a lot.",
+        "date": "18 Dec 2022",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "slug": "office-fitness-desk-stretches",
+    "title": "Office Fitness: Desk Stretches",
+    "date": "23 December 2024",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+    "body": "<p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Long hours at a desk can leave you stiff, sore, and drained by the end of the day. Simple desk stretches and micro-movements can counteract the effects of prolonged sitting and keep your body feeling energized.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Tight hip flexors, rounded shoulders, and a forward head posture are common in office workers. Gentle stretches for the chest, hip flexors, and neck—performed a few times per day—can dramatically improve posture and comfort.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>You don’t need to change clothes or roll out a mat. Most movements can be done in your work attire, right next to your chair.</p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:black; font-size:16px; margin:22px; font-weight:600;'><em>Motion is lotion—short bouts of movement throughout the day beat one big workout after eight hours of stillness.</em></p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Set a timer every 45–60 minutes as a reminder to stand, walk briefly, and perform 2–3 stretches. Over a full workday, these small breaks add up to meaningful movement.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Your future workouts will also feel better when your joints aren’t locked into a single position all day.</p>",
+    "author": {
+      "name": "Priya Desai",
+      "avatar": "https://images.unsplash.com/photo-1525134479668-1bee5c7c6845?w=100&h=100&fit=crop",
+      "bio": "Corporate wellness coach helping desk workers stay active and pain-free. Designs realistic movement routines for busy professionals."
+    },
+    "tourGuides": [
+      {
+        "name": "Jon Miller",
+        "role": "Ergonomics Specialist",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&h=200&fit=crop",
+        "userCity": "Seattle",
+        "userCountry": "USA",
+        "rating": 4.8
+      }
+    ],
+    "exploreMore": [
+      {
+        "title": "Home Workouts with No Equipment",
+        "slug": "home-workouts-no-equipment",
+        "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "15 Nov 2022"
+      },
+      {
+        "title": "Mobility Training Essentials for Stiff Hips",
+        "slug": "mobility-training-essentials",
+        "image": "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "28 Nov 2022"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c14",
+        "author": "Linda",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=50&h=50&fit=crop",
+        "text": "Shared this with my entire team. Neck pain is already better.",
+        "date": "04 Jan 2023",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "slug": "outdoor-training-benefits",
+    "title": "Benefits of Outdoor Training",
+    "date": "23 November 2024",
+    "image": "https://plus.unsplash.com/premium_photo-1663134288240-eb7222dc3f1b?q=80&w=1182&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "body": "<p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Taking your workouts outside can provide a powerful physical and mental boost. Fresh air, sunlight, and varied terrain challenge your body in ways that indoor environments simply can’t replicate.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Outdoor sessions often feel less monotonous, making it easier to stay consistent. Hills, grass, and uneven ground train stabilizer muscles, improve balance, and build functional strength.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Exposure to natural light during the day can also improve sleep quality and mood, indirectly supporting your recovery and performance.</p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:black; font-size:16px; margin:22px; font-weight:600;'><em>The best gym might be the one without walls—parks, trails, and open spaces are free strength and cardio facilities.</em></p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Combine bodyweight circuits, hill sprints, or simple jogs with mobility work in a nearby park. Bring minimal gear, like resistance bands, to add variety.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Always consider weather, hydration, and sun protection so outdoor sessions remain enjoyable and safe.</p>",
+    "author": {
+      "name": "Carlos Mendez",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&h=100&fit=crop",
+      "bio": "Outdoor training specialist encouraging people to move beyond the gym walls. Designs nature-based workouts for strength, endurance, and mental health."
+    },
+    "tourGuides": [
+      {
+        "name": "Nora Schmidt",
+        "role": "Trail Running Coach",
+        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=300&h=200&fit=crop",
+        "userCity": "Munich",
+        "userCountry": "Germany",
+        "rating": 4.7
+      }
+    ],
+    "exploreMore": [
+      {
+        "title": "Beginner Running Plan for City Parks",
+        "slug": "beginner-running-plan",
+        "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "02 Oct 2022"
+      },
+      {
+        "title": "Yoga for Recovery After Outdoor Sessions",
+        "slug": "yoga-for-recovery",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "10 Oct 2022"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c15",
+        "author": "Milan",
+        "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=50&h=50&fit=crop",
+        "text": "Started weekend park workouts after this. Way more fun than the treadmill.",
+        "date": "20 Oct 2022",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "slug": "cross-training-for-athletes",
+    "title": "Cross-Training for Athletes",
+    "date": "23 October 2024",
+    "image": "https://plus.unsplash.com/premium_photo-1685231505216-720690ca7cc9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "body": "<p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Cross-training involves using different types of exercise to support your primary sport or training goal. For example, runners might use strength training and cycling to build durability, while lifters may add conditioning work to improve heart health.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>The right cross-training plan reduces overuse injuries, addresses weak links, and keeps training mentally fresh. It also lets you maintain fitness when you can’t perform your main activity due to weather, travel, or minor aches.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Done strategically, cross-training complements your main sport instead of competing with it for recovery.</p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:black; font-size:16px; margin:22px; font-weight:600;'><em>Train like an athlete, not a specialist—build a body that’s strong, mobile, and conditioned from multiple angles.</em></p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Identify which qualities your primary sport lacks—strength, power, endurance, or mobility—and choose complementary activities that fill those gaps.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Schedule cross-training sessions on lighter days or during off-seasons to avoid compromising performance in key practices or competitions.</p>",
+    "author": {
+      "name": "Elise Novak",
+      "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=100&h=100&fit=crop",
+      "bio": "Multi-sport coach helping athletes design smart cross-training plans. Background in strength, conditioning, and endurance sports."
+    },
+    "tourGuides": [
+      {
+        "name": "Rahul Mehta",
+        "role": "Performance Coach",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&h=200&fit=crop",
+        "userCity": "Bengaluru",
+        "userCountry": "India",
+        "rating": 4.8
+      }
+    ],
+    "exploreMore": [
+      {
+        "title": "Strength Training Basics for Sport Performance",
+        "slug": "strength-training-basics",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "11 Sep 2022"
+      },
+      {
+        "title": "Advanced HIIT Protocols for Athletes",
+        "slug": "advanced-hiit-protocols",
+        "image": "https://images.unsplash.com/photo-1556817411-31ae72fa3ea0?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "19 Sep 2022"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c16",
+        "author": "Julia",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=50&h=50&fit=crop",
+        "text": "Helped me balance lifting with running without burning out.",
+        "date": "01 Oct 2022",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "slug": "injury-prevention-guide",
+    "title": "Injury Prevention Guide",
+    "date": "23 September 2024",
+    "image": "https://images.unsplash.com/photo-1517832207067-4db24a2ae47c?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+    "body": "<p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Staying injury-free is the real secret to long-term progress in any fitness journey. While occasional soreness is normal, recurring pain and frequent injuries are signals that your training, recovery, or technique need adjustment.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Most non-contact injuries stem from a mix of factors: poor movement patterns, insufficient warm-ups, rapid jumps in training volume, and lack of recovery. The good news is that all of these are modifiable.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>A smart injury-prevention plan blends strength work, mobility, stable progressions, and honest self-assessment.</p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:black; font-size:16px; margin:22px; font-weight:600;'><em>The best ability is availability—if you can stay healthy, you will eventually get strong, fast, and fit.</em></p><hr style='margin: 20px 0;  background-color: #E5E6EA; height: 1.1px;'/><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>Monitor your weekly training load and avoid increasing volume or intensity by more than 10–15% at a time. Warm up with dynamic movements specific to your session, not random stretches.</p><p style='color:#10152E; font-size:16px;; margin-bottom:32px;'>When pain appears, adjust early instead of pushing through. Lighten loads, modify exercises, or take a recovery day to let your body catch up.</p>",
+    "author": {
+      "name": "Dr. Laura Kim",
+      "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=100&h=100&fit=crop",
+      "bio": "Sports physician and strength enthusiast. Helps active people prevent injuries and return to training safely after setbacks."
+    },
+    "tourGuides": [
+      {
+        "name": "Tom Walker",
+        "role": "Rehab Specialist",
+        "avatar": "https://images.unsplash.com/photo-1525134479668-1bee5c7c6845?w=300&h=200&fit=crop",
+        "userCity": "London",
+        "userCountry": "UK",
+        "rating": 4.9
+      }
+    ],
+    "exploreMore": [
+      {
+        "title": "Mobility Training Essentials for Healthy Joints",
+        "slug": "mobility-training-essentials",
+        "image": "https://images.unsplash.com/photo-1540479859555-17af45c78602?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "06 Aug 2022"
+      },
+      {
+        "title": "Sleep & Recovery Tips for Lifters",
+        "slug": "sleep-and-recovery-for-lifters",
+        "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "tag": "Health",
+        "date": "14 Aug 2022"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c17",
+        "author": "Farah",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=50&h=50&fit=crop",
+        "text": "Wish I had read this before my first injury. Super practical tips.",
+        "date": "25 Aug 2022",
+        "rating": 4.9
+      }
+    ]
   }
 ]
